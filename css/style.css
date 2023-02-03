@@ -129,18 +129,24 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 @media screen and (max-width: 480px) {
+
     .container {
         align-items: center;
         display: flex;
         flex-direction: column;
         max-width: 480px;
         flex-wrap: wrap;
+        padding: 30px;
+        margin: auto;
+        text-align: center;
+        padding-left: 0px;
     }
 
     .row {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+
     }
 
     .steps .col {
