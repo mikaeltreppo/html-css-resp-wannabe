@@ -139,7 +139,7 @@ img {
         padding: 30px;
         margin: auto;
         text-align: center;
-        padding-left: 0px;
+        width: 100%;
     }
 
     .row {
@@ -150,15 +150,15 @@ img {
     }
 
     .steps .col {
-        width: 100vw;
+        width: 100%;
     }
 
     .lessons .col {
-        width: 100vw;
+        width: 100%;
     }
 
     .why-us.col {
-        width: 100vw;
+        width: 100%;
     }
 
     .why-us .col-right {
